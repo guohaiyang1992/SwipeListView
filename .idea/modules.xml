@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SwipeListView.iml" filepath="$PROJECT_DIR$/SwipeListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipelistviewlib/swipelistviewlib.iml" filepath="$PROJECT_DIR$/swipelistviewlib/swipelistviewlib.iml" />
+    </modules>
+  </component>
+</project>
